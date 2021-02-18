@@ -8,7 +8,7 @@ Os projetos encontrados nesse repositorio são referentes ao curso de Data Scien
 - [X] Tratamento dos Dados
 - [X] Tratamento de Variáveis 
 - [X] Criação de Gráficos 
-- [X] Machine Learning
+- [X] Machine Learning - Classificação
 - [X] Deploy
 - [X] Insights
 
